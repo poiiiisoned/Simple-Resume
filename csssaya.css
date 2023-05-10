@@ -1,0 +1,37 @@
+html {
+    background-color: #F5EAEA;
+    font-size: 20px;
+    font-family:'Quicksand', sans-serif;;
+}
+
+.title, h2 {
+    text-align: center;
+}
+
+li {
+    font-size: 1rem ;
+}
+
+.title {
+    background-color: #F16767 ;
+    font-weight: bolder;
+    color: #fac97f
+}
+
+h2 {
+    background-color: #F16767 ;
+    font-weight: bolder;
+    color: #fac97f
+}
+
+#bawah {
+    text-align: center;
+    font-weight: 900;
+    background-color: #A459D1;
+}
+
+img {
+    justify-content: center;
+    margin: auto;
+    display: flex;
+}
